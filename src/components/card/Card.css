@@ -13,6 +13,9 @@
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 1rem;
 }
+.card_text {
+  width: 300px;
+}
 
 .card_style img {
   border: 2px solid rgb(22, 185, 22);

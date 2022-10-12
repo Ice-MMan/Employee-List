@@ -147,6 +147,10 @@ body {
   margin: 1rem;
 }
 
+.button-style {
+  cursor: pointer;
+}
+
 .menu {
   padding: 5rem 0;
 }
